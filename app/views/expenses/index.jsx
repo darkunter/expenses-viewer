@@ -1,1 +1,1 @@
-<%= react_component 'Records', { data: @data } %>
+<div>hola mundo</div>
